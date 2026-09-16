@@ -7,7 +7,7 @@ Butterfly
 
 # What and why?
 What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
-I want to build an IOS app for people with very strict diets such as vegan diets. I have had personal experiences with friends who have a very strict diet finding it difficult to enjoy a meal outside their home without having to do diligent research on the area they are going. Many restaurants advertise as vegetarian meals but this app will ONLY inlcude vegab resturatants or resturants that offer vegan options [not vegeterian].
+I want to build an IOS app for people with very strict diets such as vegan diets. I have had personal experiences with friends who have a very strict diet finding it difficult to enjoy a meal outside their home without having to do diligent research on the area they are going. Many restaurants advertise as vegetarian meals but this app will ONLY include vegan restaurants or restaurants that offer vegan options [not vegetarian]. 
 
 # For whom?
 This will be for users who have severe allergies, or have a strict diet, like a vegan diet. 
